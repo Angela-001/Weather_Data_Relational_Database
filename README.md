@@ -5,6 +5,7 @@ Designed and implemented a normalized relational database in MySQL to manage and
 The project demonstrates database design, SQL querying, data preparation, normalization, and performance evaluation using over 200,000 weather observations per measurement type.
 
 ## Technologies
+
 - MySQL
 - SQL
 - Python
@@ -12,6 +13,7 @@ The project demonstrates database design, SQL querying, data preparation, normal
 - Sequel Ace
 
 ## Skills Demonstrated
+
 - Relational Database Design
 - Database Normalization
 - SQL Joins
@@ -49,8 +51,6 @@ The project demonstrates database design, SQL querying, data preparation, normal
 
 - `README.md` — Project overview and documentation
 - `weather_database_queries.sql` — SQL database setup, table creation, cleaning, and analytical queries
-
-## Challenges & Solutions
 
 ## Challenges & Solutions
 
